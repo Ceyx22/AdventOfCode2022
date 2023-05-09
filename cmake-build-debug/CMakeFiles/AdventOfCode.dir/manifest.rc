@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/fm278/CLionProjects/AdventOfCode/cmake-build-debug/CMakeFiles/AdventOfCode.dir/embed.manifest"
